@@ -29,11 +29,11 @@ Este projeto tem como objetivo consultar informações climáticas utilizando a 
 
 ## Contribuidores
 
-- **Daniel Djinishian de Briquez** - RA: 22.00251-0
-- **Victor Simon Paulo** - RA: 22.00117-4
 - **Carlo Giacometti Guerreiro** - RA: 22.01163-3
-- **Guilherme Ferreira do Nascimento** - RA: 22.01285-0
+- **Daniel Djinishian de Briquez** - RA: 22.00251-0
 - **Guilherme Castro Alves** - RA: 22.00916-7
+- **Guilherme Ferreira do Nascimento** - RA: 22.01285-0
+- **Victor Simon Paulo** - RA: 22.00117-4
 
 ---
 
